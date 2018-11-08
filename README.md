@@ -7,9 +7,9 @@ Componentes del sistema
 * Pad RFID
 * Tarjeta RFID 
 
-# Instalación
+## Instalación
 Para la correcta instalación del proyecto, es necesario descargar el conector `mysql-connector-java-8.0.11.jar` y pegarlo en la ruta 
 `C:\Program Files\Java\jre1.8.0_191\lib\ext`.
 
-# Descarga
+## Descarga
 `https://dev.mysql.com/downloads/connector/j/8.0.html`.
