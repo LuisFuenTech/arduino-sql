@@ -12,4 +12,4 @@ Para la correcta instalación del proyecto, es necesario descargar el conector `
 `C:\Program Files\Java\jre1.8.0_191\lib\ext`.
 
 # Descarga
-`https://dev.mysql.com/downloads/connector/j/8.0.html`
+`https://dev.mysql.com/downloads/connector/j/8.0.html`.
