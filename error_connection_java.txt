@@ -1,0 +1,37 @@
+PARA ERROR DRIVER:
+Class.forName("com.mysql.cj.jdbc.Driver");
+
+PARA ERROR ZONA HORARIA:
+a su cadena de url agregar: 
+"?useTimezone=true&serverTimezone=UTC"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++"?useTimezone=true&serverTimezone=UTC"
