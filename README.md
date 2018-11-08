@@ -5,4 +5,11 @@ la entrada a personas en un área determinada. El acceso se realiza a través de
 Componentes del sistema
 * Arduino Uno
 * Pad RFID
-* Tarjeta RFID
+* Tarjeta RFID 
+
+# Instalación
+Para la correcta instalación del proyecto, es necesario descargar el conector `mysql-connector-java-8.0.11.jar` y pegarlo en la ruta 
+`C:\Program Files\Java\jre1.8.0_191\lib\ext`.
+
+# Descarga
+`https://dev.mysql.com/downloads/connector/j/8.0.html`
